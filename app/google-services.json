@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "758462415530",
+    "firebase_url": "https://sqlite-crud.firebaseio.com",
+    "project_id": "sqlite-crud",
+    "storage_bucket": "sqlite-crud.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758462415530:android:c0632e4a62b28306ce86d3",
+        "android_client_info": {
+          "package_name": "hreday.sagar.sqlitecrud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758462415530-mehdbatra95581lm74oia66nns6h6kvh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "hreday.sagar.sqlitecrud",
+            "certificate_hash": "353c969af1d44a4c72f40fb2398655313922d2e1"
+          }
+        },
+        {
+          "client_id": "758462415530-vjroq5ma8fmkmisrmjtvllr7f9iqegv1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4X9nMK2u0mu2ASMIJ3Vqc256XzcEOgEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758462415530-vjroq5ma8fmkmisrmjtvllr7f9iqegv1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
